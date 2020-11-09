@@ -12,7 +12,7 @@ Here, you will find all of the various projects that I am currently working on.
 
 - Within this project my goal was to to track a Spikeball from an overhead drone view in an attempt to begin tracking sports analytics for the sport of roudnet. This project sparked more ideas to continue development in this area. [Link](https://austinulfers.github.io/spikeball-tracking/) - March 2020
 
-### Projects I am Currently Working On
+### Current Projects
 
 - A pipeline to scrape craigslist jobs and match them to fiverr contractors, while taking a margin of the profits. [Link](https://github.com/austinulfers/job-automation)
 
