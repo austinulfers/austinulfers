@@ -22,7 +22,10 @@ Here, you will find all of the various projects that I am currently working on.
 
 - Retrieve data from my University's poorly designed course evaluation catalog, deposit the data into a database, and aggregate the data into Tableau to try and find classes that I might not have otherwise considered.
 
-## My Application Documents
+## My Links
 
 Do you want to collaborate? Here is a link to my
 <a href="https://github.com/austinulfers/austinulfers/blob/main/Austin%20Ulfers%20-%20Resume%20-%20December%202020.pdf" target="_blank">current resume.</a>
+
+:briefcase: [Linkedin](https://www.linkedin.com/in/austinulfers/)  
+:memo: [Medium](https://medium.com/@austinulfers)
