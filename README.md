@@ -25,4 +25,4 @@ Here, you will find all of the various projects that I am currently working on.
 ## My Application Documents
 
 Do you want to collaborate? Here is a link to my
-<a href="austinulfers.github.io/austinulfers/Austin Ulfers - Resume - December 2020.pdf" target="_blank">current resume.</a>
+<a href="https://github.com/austinulfers/austinulfers/blob/main/Austin%20Ulfers%20-%20Resume%20-%20December%202020.pdf" target="_blank">current resume.</a>
