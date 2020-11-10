@@ -21,3 +21,8 @@ Here, you will find all of the various projects that I am currently working on.
 - Expand on my Spikeball sports analytics by using a convolutional neural network to identify and track the location of the ball using a camera on a tripod. I want to use the AWS Deeplens, AWS Rekognition, and AWS Sagemaker to achieve this.
 
 - Retrieve data from my University's poorly designed course evaluation catalog, deposit the data into a database, and aggregate the data into Tableau to try and find classes that I might not have otherwise considered.
+
+## My Application Documents
+
+Do you want to collaborate? Here is a link to my
+<a href="austinulfers.github.io/austinulfers/Austin Ulfers - Resume - December 2020.pdf" target="_blank">current resume.</a>
