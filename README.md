@@ -25,7 +25,7 @@ Here, you will find all of the various projects that I am currently working on.
 ## My Links
 
 Do you want to collaborate? Here is a link to my
-<a href="https://github.com/austinulfers/austinulfers/blob/main/Austin%20Ulfers%20-%20Resume%20-%February%202021.pdf" target="_blank">current resume.</a>
+<a href="https://github.com/austinulfers/austinulfers/blob/main/Austin%20Ulfers%20-%20Resume%20-%20February%202021.pdf" target="_blank">current resume.</a>
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/austinulfers/)  
 :memo: [Medium](https://medium.com/@austinulfers)
