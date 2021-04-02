@@ -2,6 +2,8 @@
 
 My name is Austin Ulfers and I am a current senior at the University of Washington studying Informatics with a specialized track in data science. I am currently working for PACCAR Inc as a Data Engineer Intern.
 
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Welcome to My GitHub
 
 Here, you will find all of the various projects that I am currently working on. 
@@ -12,20 +14,7 @@ Here, you will find all of the various projects that I am currently working on.
 
 - Within this project my goal was to to track a Spikeball from an overhead drone view in an attempt to begin tracking sports analytics for the sport of roudnet. This project sparked more ideas to continue development in this area. [Link](https://austinulfers.github.io/spikeball-tracking/) - March 2020
 
-### Current Projects
-
-- A pipeline to scrape craigslist jobs and match them to fiverr contractors, while taking a margin of the profits. [Link](https://github.com/austinulfers/job-automation)
-
-### Future Projects
-
-- Expand on my Spikeball sports analytics by using a convolutional neural network to identify and track the location of the ball using a camera on a tripod. I want to use the AWS Deeplens, AWS Rekognition, and AWS Sagemaker to achieve this.
-
-- Retrieve data from my University's poorly designed course evaluation catalog, deposit the data into a database, and aggregate the data into Tableau to try and find classes that I might not have otherwise considered.
-
 ## My Links
-
-Do you want to collaborate? Here is a link to my
-<a href="https://github.com/austinulfers/austinulfers/blob/main/Austin%20Ulfers%20-%20Resume%20-%20February%202021.pdf" target="_blank">current resume.</a>
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/austinulfers/)  
 :memo: [Medium](https://medium.com/@austinulfers)
