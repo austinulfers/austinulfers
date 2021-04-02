@@ -2,11 +2,17 @@
 
 My name is Austin Ulfers and I am a current senior at the University of Washington studying Informatics with a specialized track in data science. I am currently working for PACCAR Inc as a Data Engineer Intern.
 
-[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers)](https://github.com/anuraghazra/github-readme-stats)
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinulfers&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Austin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=austinulfers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Welcome to My GitHub
 
-Here, you will find all of the various projects that I am currently working on. 
+Here, you will find all of the various projects that I am currently working on.
 
 ### Finished Projects
 
