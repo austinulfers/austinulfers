@@ -4,11 +4,7 @@ My name is Austin Ulfers and I am a current senior at the University of Washingt
 
 [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinulfers&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Austin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=austinulfers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Welcome to My GitHub
 
