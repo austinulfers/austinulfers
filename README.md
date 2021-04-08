@@ -4,11 +4,9 @@ My name is Austin Ulfers and I am a current senior at the University of Washingt
 
 <div align=center>
 
-[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/9f9de1e9-ea29-41f5-a1c4-2cfe896eae0b.svg)](https://github.com/anuraghazra/github-readme-stats)
-
-<figure><embed src="https://wakatime.com/share/@austinulfers/9f9de1e9-ea29-41f5-a1c4-2cfe896eae0b.svg"></embed></figure>
+[![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/9f9de1e9-ea29-41f5-a1c4-2cfe896eae0b.svg)](https://wakatime.com/dashboard)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austinulfers/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://stackoverflow.com/users/9837010/austin-ulfers)
