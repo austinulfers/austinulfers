@@ -28,13 +28,13 @@ Within this project my goal was to to track a Spikeball from an overhead drone v
 
 ### American Classic Homes Internship
 
-<img src = "img/ACH Future Market Supply.png" alt="Seattle Future Market Supply" width="700"/>
+<img src = "img/ACH Future Market Supply.PNG" alt="Seattle Future Market Supply" width="700"/>
 
-My main project while working at American Classic Homes was building a series of web scraping applications to track the active supply of real estate properties within the greater Seattle area. By tracking our competitors that were buying land, I created an alogorithm to estimate the projected completion date based on public permitting data. This analysis allowed me to find upcoming and growing market areas as well as establish data backed trends for the current market outlook. [Link]() - August 2019
+My main project while working at American Classic Homes was building a series of web scraping applications to track the active supply of real estate properties within the greater Seattle area. By tracking our competitors that were buying land, I created an alogorithm to estimate the projected completion date based on public permitting data. This analysis allowed me to find upcoming and growing market areas as well as establish data backed trends for the current market outlook. [Link](https://github.com/austinulfers/austinulfers/blob/main/docs/Final%20Market%20Report%20Summer%202019.pdf) - August 2019
 
 ### Scraping My University's Course Evaluation Catalog
 
-<img src = "img/UW Course Eval Project.png" alt="Before & After of Scraping" width="700"/>
+<img src = "img/UW Course Eval Project.PNG" alt="Before & After of Scraping" width="700"/>
 
 For this project, I built a webscraper to scrape my University's poorly visualized course evaluation catalog. As a freshman, I wanted an easier way to find classes to take so after aggregating the data into one source, I created a tableau workbook to filter down the data to my criteria in order to find highly-rated classes. [Link](https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - February 2018
 
