@@ -26,6 +26,12 @@ Within this medium post, I created a guide on how to migrate a chrome based web-
 
 Within this project my goal was to to track a Spikeball from an overhead drone view in an attempt to begin tracking sports analytics for the sport of roudnet. This project sparked more ideas to continue development in this area. [Link](https://austinulfers.github.io/spikeball-tracking/) - March 2020
 
+### Scraping my University's Course Evaluation Catalog
+
+<img src = "img/UW Course Eval Project.png" alt="Before & After of Scraping" width="700"/>
+
+For this project, I built a webscraper to scrape my University's poorly visualized course evaluation catalog. As a freshman, I wanted an easier way to find classes to take so after aggregating the data into one source, I created a tableau workbook to filter down the data to my criteria in order to find highly-rated classes. [Link](https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - February 2018
+
 ## Languages
 
 [![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/de0bdf45-9015-4bd9-b705-164f5f762971.svg)](https://wakatime.com/dashboard)
