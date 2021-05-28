@@ -32,7 +32,7 @@ Within this medium post, I created a guide on how to migrate a chrome based web-
 
 <img src = "img/ReomnifyGraphic.PNG" alt="Reomnify Website Graphic" width="700"/>
 
-At this internship with Reominfy, I was tasked with two major projects. The first was being able to get a forest density index based on satellite imagery for any lat/long in the world. The second was using cellular phone tracking data to make groupings of gps pings to find popularity indexes for shopping malls in Singapore. [Link]() - June 2020
+At this internship with Reominfy, I was tasked with two major projects. The first was being able to get a forest density index based on satellite imagery for any lat/long in the world. The second was using cellular phone tracking data to make groupings of gps pings to find popularity indexes for shopping malls in Singapore. [Link](https://github.com/austinulfers/austinulfers/blob/main/docs/REOMNIFY%20Final%20Presentation.pdf) - June 2020
 
 ### Tracking a Spikeball From an Aerial View
 
