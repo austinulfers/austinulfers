@@ -28,6 +28,12 @@ The project consisted of a Python web-scraper to get active real estate listings
 
 Within this medium post, I created a guide on how to migrate a chrome based web-scraper to an Azure virtual machine. I step the reader through the steps necessary to both setup the environment and automate the scraper to run periodically. [Link](https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426). - August 2020
 
+### Reomnify Internship
+
+<img src = "img/ReomnifyGraphic.PNG" alt="Reomnify Website Graphic" width="700"/>
+
+At this internship with Reominfy, I was tasked with two major projects. The first was being able to get a forest density index based on satellite imagery for any lat/long in the world. The second was using cellular phone tracking data to make groupings of gps pings to find popularity indexes for shopping malls in Singapore. [Link]() - June 2020
+
 ### Tracking a Spikeball From an Aerial View
 
 <img src = "img/spike_1-plotly.gif" alt="Tracking a Spikeball From a Drone" width="700"/>
