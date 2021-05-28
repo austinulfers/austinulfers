@@ -14,6 +14,14 @@ My name is Austin Ulfers and I am a current senior at the University of Washingt
 
 ## Finished Projects
 
+### Arrived Homes Aquisition Assistant
+
+<img src = "img/arrived_acquisition_assistant.gif" alt="Arrived Acquisition Assistant" width="700"/>
+
+This was our group's capstone project for the University of Washington's Informatics program. For this project we worked with Arrived Homes (arrivedhomes.com) in order to build an internal tool to aide the acquisitions team in finding properties for them to invest in.
+
+The project consisted of a Python web-scraper to get active real estate listings, various Python calculators, a TSQL database to store relevant property information, a Python Django middleware API and a Javascript React employee facing front-end. [Link](https://arrived-homes-capstone.github.io/landingpage/) - May 2021
+
 ### Guide to Migrating Chrome Web Scrapers Within Azure
 
 <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
