@@ -34,7 +34,7 @@ My main project while working at American Classic Homes was building a series of
 
 ### Scraping My University's Course Evaluation Catalog
 
-<img src = "img/UW Course Eval Project.PNG" alt="Before & After of Scraping" width="700"/>
+<img src = "img/UW Course Eval Project.png" alt="Before & After of Scraping" width="700"/>
 
 For this project, I built a webscraper to scrape my University's poorly visualized course evaluation catalog. As a freshman, I wanted an easier way to find classes to take so after aggregating the data into one source, I created a tableau workbook to filter down the data to my criteria in order to find highly-rated classes. [Link](https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - February 2018
 
