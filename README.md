@@ -12,7 +12,7 @@ My name is Austin Ulfers and I am a current senior at the University of Washingt
 
 </div>
 
-## Porfolio / Finished Projects
+## Portfolio / Finished Projects
 
 ### Arrived Homes Aquisition Assistant
 
