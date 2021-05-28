@@ -14,17 +14,15 @@ My name is Austin Ulfers and I am a current senior at the University of Washingt
 
 </div>
 
-## Welcome to My GitHub
+## Finished Projects
 
-### Finished Projects
-
-#### Guide to Migrating Chrome Web Scrapers Within 
+### Guide to Migrating Chrome Web Scrapers Within Azure
 
 <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
 
 Within this medium post, I created a guide on how to migrate a chrome based web-scraper to an Azure virtual machine. I step the reader through the steps necessary to both setup the environment and automate the scraper to run periodically. [Link](https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426). - August 2020
 
-#### Tracking a Spikeball From an Aerial View
+### Tracking a Spikeball From an Aerial View
 
 <img src = "img/spike_1-plotly.gif" alt="Tracking a Spikeball From a Drone" width="700"/>
 
