@@ -24,6 +24,8 @@ The project consisted of a Python web-scraper to get active real estate listings
 
 ### Boeing Advanced Research Center - Titanium CT Imagery Defect Analysis
 
+[Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md) - December 2020
+
 ### Guide to Migrating Chrome Web Scrapers Within Azure
 
 <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
