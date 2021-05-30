@@ -24,6 +24,8 @@ The project consisted of a Python web-scraper to get active real estate listings
 
 ### Boeing Advanced Research Center - Titanium CT Imagery Defect Analysis
 
+For this project, I worked with UW's Boeing Advanced Research Center to help categorize and predict the failure rates of various titanium alloys based on material defects created during manufacturing as seen from CT-Scans. [Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md) - December 2020
+
 ### Guide to Migrating Chrome Web Scrapers Within Azure
 
 <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
