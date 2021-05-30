@@ -12,9 +12,9 @@ My name is Austin Ulfers and I am a current senior at the University of Washingt
 
 </div>
 
-## Portfolio / Finished Projects
+# Portfolio / Finished Projects
 
-### Arrived Homes Acquisition Assistant
+## Arrived Homes Acquisition Assistant
 
 <a href="https://arrived-homes-capstone.github.io/landingpage/">
     <img src = "img/arrived_acquisition_assistant.gif" alt="Arrived Acquisition Assistant" width="700"/>
@@ -24,7 +24,7 @@ This was our group's capstone project for the University of Washington's Informa
 
 The project consisted of a Python web-scraper to get active real estate listings, various Python calculators, a TSQL database to store relevant property information, a Python Django middleware API and a JavaScript React employee facing front-end. [Learn More](https://arrived-homes-capstone.github.io/landingpage/) - May 2021
 
-### Boeing Advanced Research Center - Titanium CT Imagery Defect Analysis
+## Boeing Advanced Research Center - Titanium CT Imagery Defect Analysis
 
 <a href="https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md">
     <img src = "docs/img/barc/Layers Visualized.png" alt="CT Layers visualized" width="700"/>
@@ -32,7 +32,7 @@ The project consisted of a Python web-scraper to get active real estate listings
 
 For this project, I worked with UW's Boeing Advanced Research Center to help categorize and predict the failure rates of various titanium alloys based on material defects created during manufacturing as seen from CT-Scans. [Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md) - December 2020
 
-### Guide to Migrating Chrome Web Scrapers Within Azure
+## Guide to Migrating Chrome Web Scrapers Within Azure
 
 <a href ="https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426">
     <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
@@ -40,7 +40,7 @@ For this project, I worked with UW's Boeing Advanced Research Center to help cat
 
 Within this medium post, I created a guide on how to migrate a chrome based web-scraper to an Azure virtual machine. I step the reader through the steps necessary to both setup the environment and automate the scraper to run periodically. [Learn More](https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426). - August 2020
 
-### Reomnify Internship
+## Reomnify Internship
 
 <a href="https://github.com/austinulfers/austinulfers/blob/main/docs/REOMNIFY%20Final%20Presentation.pdf">
     <img src = "img/ReomnifyGraphic.PNG" alt="Reomnify Website Graphic" width="700"/>
@@ -48,7 +48,7 @@ Within this medium post, I created a guide on how to migrate a chrome based web-
 
 At this internship with Reominfy, I was tasked with two major projects. The first was being able to get a forest density index based on satellite imagery for any lat/long in the world. The second was using cellular phone tracking data to make groupings of gps pings to find popularity indexes for shopping malls in Singapore. [Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/REOMNIFY%20Final%20Presentation.pdf) - June 2020
 
-### Tracking a Spikeball From an Aerial View
+## Tracking a Spikeball From an Aerial View
 
 <a href="https://austinulfers.github.io/spikeball-tracking/">
     <img src = "img/spike_1-plotly.gif" alt="Tracking a Spikeball From a Drone" width="700"/>
@@ -56,7 +56,7 @@ At this internship with Reominfy, I was tasked with two major projects. The firs
 
 Within this project my goal was to to track a Spikeball from an overhead drone view in an attempt to begin tracking sports analytics for the sport of roudnet. This project sparked more ideas to continue development in this area. [Learn More](https://austinulfers.github.io/spikeball-tracking/) - March 2020
 
-### American Classic Homes Internship
+## American Classic Homes Internship
 
 <a href="https://github.com/austinulfers/austinulfers/blob/main/docs/Final%20Market%20Report%20Summer%202019.pdf">
     <img src = "img/ACH Future Market Supply.PNG" alt="Seattle Future Market Supply" width="700"/>
@@ -64,7 +64,7 @@ Within this project my goal was to to track a Spikeball from an overhead drone v
 
 My main project while working at American Classic Homes was building a series of web scraping applications to track the active supply of real estate properties within the greater Seattle area. By tracking our competitors that were buying land, I created an algorithm to estimate the projected completion date based on public permitting data. This analysis allowed me to find upcoming and growing market areas as well as establish data backed trends for the current market outlook. [Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/Final%20Market%20Report%20Summer%202019.pdf) - August 2019
 
-### Scraping My University's Course Evaluation Catalog
+## Scraping My University's Course Evaluation Catalog
 
 <a href="https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link">
     <img src = "img/UW Course Eval Project.png" alt="Before & After of Scraping" width="700"/>
