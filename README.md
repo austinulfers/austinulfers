@@ -26,7 +26,7 @@ The project consisted of a Python web-scraper to get active real estate listings
 
 ### Boeing Advanced Research Center - Titanium CT Imagery Defect Analysis
 
-<a href="https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md"
+<a href="https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md">
     <img src = "docs/img/barc/Layers Visualized.png" alt="CT Layers visualized" width="700"/>
 </a>
 
