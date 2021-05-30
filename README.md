@@ -72,6 +72,6 @@ My main project while working at American Classic Homes was building a series of
 
 For this project, I built a webscraper to scrape my University's poorly visualized course evaluation catalog. As a freshman, I wanted an easier way to find classes to take so after aggregating the data into one source, I created a tableau workbook to filter down the data to my criteria in order to find highly-rated classes. [Learn More](https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - February 2018
 
-## Languages
+# Languages
 
 [![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/de0bdf45-9015-4bd9-b705-164f5f762971.svg)](https://wakatime.com/dashboard)
