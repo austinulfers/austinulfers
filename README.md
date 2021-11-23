@@ -27,7 +27,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-sql-green)
 ![](https://img.shields.io/badge/-javascript-green)
 ![](https://img.shields.io/badge/-aws-red)
-![](https://img.shields.io/badge/-flask-red)
+![](https://img.shields.io/badge/-django-red)
 ![](https://img.shields.io/badge/-react-red)
 ![](https://img.shields.io/badge/-web%20scraping-blue)
 ![](https://img.shields.io/badge/-database%20management-blue)
