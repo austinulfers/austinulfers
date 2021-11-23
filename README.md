@@ -16,10 +16,10 @@ My name is Austin Ulfers and I am a graduate from the University of Washington. 
 
 Tags are included for all projects:
 
-- **Green**: Languages
-- **Red**: Software
-- **Blue**: Skills
-- **White**: Subject Area
+![](https://img.shields.io/badge/-Languages-green)
+![](https://img.shields.io/badge/-Software-red)
+![](https://img.shields.io/badge/-Skills-blue)
+![](https://img.shields.io/badge/-Subject%20Area-white)
 
 ## Arrived Homes Acquisition Assistant
 
