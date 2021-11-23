@@ -68,9 +68,11 @@ For this project, I worked with UW's Boeing Advanced Research Center to help cat
 ![](https://img.shields.io/badge/-database%20management-blue)
 ![](https://img.shields.io/badge/-web--scraping-blue)
 
-<a href ="https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426">
-    <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
-</a>
+<!---
+    <a href ="https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426">
+        <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
+    </a>
+-->
 
 Within this medium post, I created a guide on how to migrate a chrome based web-scraper to an Azure virtual machine. I step the reader through the steps necessary to both setup the environment and automate the scraper to run periodically. [Learn More](https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426). - **August 2020**
 
