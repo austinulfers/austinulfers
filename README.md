@@ -142,4 +142,4 @@ For this project, I built a webscraper to scrape my University's poorly visualiz
 
 # Languages
 
-[![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/a45e071a-eda7-4552-bb03-db19b904f1ea.svg)](https://wakatime.com/dashboard)
+[![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/fe89f42b-d062-4c40-8e52-b423455f1498.svg)](https://wakatime.com/dashboard)
