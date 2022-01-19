@@ -29,7 +29,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-machine%20learning-blue)
 ![](https://img.shields.io/badge/-sports-white)
 
-<a href="https://github.com/austinulfers/austinulfers/blob/main/img/IMG_1895_Trim_tracked.gif">
+<a href="https://austinulfers.github.io/spikeball-tracking/assets/html/version_two.html">
     <img src = "img/IMG_1895_Trim_tracked.gif" alt="Tracked Roundnet Match" width="700"/>
 </a>
 
