@@ -21,7 +21,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-Skills-blue)
 ![](https://img.shields.io/badge/-Subject%20Area-white)
 
-## Using a Faster R-CNN to Track Objects for the Sport of Spikeball/Roundnet.
+## Using a Faster R-CNN to Track Objects for the Sport of Roundnet.
 
 ![](https://img.shields.io/badge/-python-green)
 ![](https://img.shields.io/badge/-detectron2-red)
@@ -29,11 +29,11 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-machine%20learning-blue)
 ![](https://img.shields.io/badge/-sports-white)
 
-<a href="https://austinulfers.github.io/spikeball-tracking/assets/html/version_two.html">
+<a href="https://austinulfers.github.io/roundnet-ai-showcase/assets/html/version_two.html">
     <img src = "img/IMG_1895_Trim_tracked.gif" alt="Tracked Roundnet Match" width="700"/>
 </a>
 
-This project outlines the process for tracking a Spikeball within a video using Facebook’s Detectron2 Faster R-CNN model with transfer learning. Once objects within the video are classified, a series of algorithms and machine learning operations are performed to determine the active ball within a video of a single roundnet round. Through these operations, generalizable tracking was successfully established but further work is needed to implement analytics tracking on a per-player basis. [Learn More](https://austinulfers.github.io/spikeball-tracking/assets/html/version_two.html) - **November 2021**
+This project outlines the process for tracking a roundnet ball within a video using Facebook’s Detectron2 Faster R-CNN model with transfer learning. Once objects within the video are classified, a series of algorithms and machine learning operations are performed to determine the active ball within a video of a single roundnet round. Through these operations, generalizable tracking was successfully established but further work is needed to implement analytics tracking on a per-player basis. [Learn More](https://austinulfers.github.io/roundnet-ai-showcase/assets/html/version_two.html) - **November 2021**
 
 ## Arrived Homes Acquisition Assistant
 
@@ -104,18 +104,18 @@ Within this medium post, I created a guide on how to migrate a chrome based web-
 
 At this internship with Reominfy, I was tasked with two major projects. The first was being able to get a forest density index based on satellite imagery for any lat/long in the world. The second was using cellular phone tracking data to make groupings of gps pings to find popularity indexes for shopping malls in Singapore. [Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/REOMNIFY%20Final%20Presentation.pdf) - **June 2020**
 
-## Tracking a Spikeball From an Aerial View
+## Tracking a Roundnet Ball From an Aerial View
 
 ![](https://img.shields.io/badge/-python-green)
 ![](https://img.shields.io/badge/-open--cv-red)
 ![](https://img.shields.io/badge/-computer%20vision-blue)
 ![](https://img.shields.io/badge/-sports-white)
 
-<a href="https://austinulfers.github.io/spikeball-tracking/">
-    <img src = "img/spike_1-plotly.gif" alt="Tracking a Spikeball From a Drone" width="700"/>
+<a href="https://austinulfers.github.io/roundnet-ai-showcase/">
+    <img src = "img/spike_1-plotly.gif" alt="Tracking a Roundnet Ball From a Drone" width="700"/>
 </a>
 
-Within this project my goal was to to track a Spikeball from an overhead drone view in an attempt to begin tracking sports analytics for the sport of roudnet. This project sparked more ideas to continue development in this area. [Learn More](https://austinulfers.github.io/spikeball-tracking/assets/html/version_one.html) - **March 2020**
+Within this project my goal was to to track a roundnet ball from an overhead drone view in an attempt to begin tracking sports analytics for the sport of roudnet. This project sparked more ideas to continue development in this area. [Learn More](https://austinulfers.github.io/roundnet-ai-showcase/assets/html/version_one.html) - **March 2020**
 
 ## American Classic Homes Internship
 
