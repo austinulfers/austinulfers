@@ -29,11 +29,11 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-machine%20learning-blue)
 ![](https://img.shields.io/badge/-sports-white)
 
-<a href="https://austinulfers.github.io/roundnet-ai-showcase/assets/html/version_two.html">
+<a href="https://roundnet.ai">
     <img src = "img/IMG_1895_Trim_tracked.gif" alt="Tracked Roundnet Match" width="700"/>
 </a>
 
-This project outlines the process for tracking a roundnet ball within a video using Facebook’s Detectron2 Faster R-CNN model with transfer learning. Once objects within the video are classified, a series of algorithms and machine learning operations are performed to determine the active ball within a video of a single roundnet round. Through these operations, generalizable tracking was successfully established but further work is needed to implement analytics tracking on a per-player basis. [Learn More](https://austinulfers.github.io/roundnet-ai-showcase/assets/html/version_two.html) - **November 2021**
+This project outlines the process for tracking a roundnet ball within a video using Facebook’s Detectron2 Faster R-CNN model with transfer learning. Once objects within the video are classified, a series of algorithms and machine learning operations are performed to determine the active ball within a video of a single roundnet round. Through these operations, generalizable tracking was successfully established but further work is needed to implement analytics tracking on a per-player basis. [Learn More](https://roundnet.ai) - **November 2021**
 
 ## Arrived Homes Acquisition Assistant
 
