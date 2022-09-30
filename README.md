@@ -35,7 +35,7 @@ Tags are included for all projects:
 
 |Certificate|Description| 
 |:--|:--|
-|<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610"><img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610" alt="Tracked Roundnet Serves" width="1000"/></a>|This was a capstone project for CMU's computer vision certification course. Given my previous experience with computer vision in the sport of Roundnet, I decided to use what I’ve learned to create a proof-of-concept tool that can determine where a ball hits the net and translate that to a top-down view of the net. [Learn More](https://roundnet.ai) - **May 2022**|
+|<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610"><img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610" alt="Tracked Roundnet Serves" width="1000"/></a>|This was a capstone project for CMU's computer vision certification course. Given my previous experience with computer vision in the sport of Roundnet, I decided to use what I’ve learned to create a proof-of-concept tool that can determine where a ball hits the net and translate that to a top-down view of the net. [Learn More](https://github.com/austinulfers/austinulfers/blob/main/docs/Carnegie%20Mellon%20Computer%20Vision%20Course%20Capstone%20Writeup.pdf) - **May 2022**|
 
 ## Using a Faster R-CNN to Track Objects for the Sport of Roundnet.
 
