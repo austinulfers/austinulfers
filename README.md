@@ -32,10 +32,10 @@ Tags are included for all projects:
 <a href="https://roundnet.ai">
     <img src = "img/Independent Serving 1.gif" alt="Tracked Roundnet Serves" width="700"/>
 </a>
-||| 
-|:--|:--| 
-| <a href="https://roundnet.ai"><img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610" alt="Tracked Roundnet Serves" width="250"/></a> | This was a capstone project for CMU's computer vision certification course. Given my previous experience with computer vision in the sport of Roundnet, I decided to use what I’ve learned to create a proof-of-concept tool that can determine where a ball hits the net and translate that to a top-down view of the net. |
 
+||| 
+|:--|:--|
+|<a href="https://roundnet.ai"><img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610" alt="Tracked Roundnet Serves" width="700"/></a>|This was a capstone project for CMU's computer vision certification course. Given my previous experience with computer vision in the sport of Roundnet, I decided to use what I’ve learned to create a proof-of-concept tool that can determine where a ball hits the net and translate that to a top-down view of the net.|
 
 ## Using a Faster R-CNN to Track Objects for the Sport of Roundnet.
 
