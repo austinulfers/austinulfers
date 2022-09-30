@@ -21,6 +21,22 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-Skills-blue)
 ![](https://img.shields.io/badge/-Subject%20Area-white)
 
+## Carnagie Mellon Computer Vision Capstone
+
+![](https://img.shields.io/badge/-python-green)
+![](https://img.shields.io/badge/-detectron2-red)
+![](https://img.shields.io/badge/-computer%20vision-blue)
+![](https://img.shields.io/badge/-machine%20learning-blue)
+![](https://img.shields.io/badge/-sports-white)
+
+<a href="https://roundnet.ai">
+    <img src = "img/Independent Serving 1.gif" alt="Tracked Roundnet Serves" width="700"/>
+</a>
+||| 
+|:--|:--| 
+| <a href="https://roundnet.ai"><img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51999610" alt="Tracked Roundnet Serves" width="250"/></a> | This was a capstone project for CMU's computer vision certification course. Given my previous experience with computer vision in the sport of Roundnet, I decided to use what I’ve learned to create a proof-of-concept tool that can determine where a ball hits the net and translate that to a top-down view of the net. |
+
+
 ## Using a Faster R-CNN to Track Objects for the Sport of Roundnet.
 
 ![](https://img.shields.io/badge/-python-green)
@@ -144,6 +160,6 @@ My main project while working at American Classic Homes was building a series of
 
 For this project, I built a webscraper to scrape my University's poorly visualized course evaluation catalog. As a freshman, I wanted an easier way to find classes to take so after aggregating the data into one source, I created a tableau workbook to filter down the data to my criteria in order to find highly-rated classes. [Learn More](https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - **February 2018**
 
-# Languages
+# Activity
 
-[![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/fe89f42b-d062-4c40-8e52-b423455f1498.svg)](https://wakatime.com/dashboard)
+[![Austin's wakatime stats](https://wakatime.com/share/@austinulfers/3b1777da-ae04-4f05-ab10-6090c09154b3.svg)](https://wakatime.com/dashboard)
