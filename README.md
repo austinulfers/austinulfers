@@ -30,7 +30,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-sports-white)
 
 <a href="https://roundnet.ai">
-    <img src = "img/Independent Serving 1.gif" alt="Tracked Roundnet Serves" width="700"/>
+    <img src = "img/Independent Serving 1.gif" alt="Tracked Roundnet Serves" width="845"/>
 </a>
 
 |Certificate|Description| 
@@ -46,7 +46,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-sports-white)
 
 <a href="https://roundnet.ai">
-    <img src = "img/IMG_1895_Trim_tracked.gif" alt="Tracked Roundnet Match" width="700"/>
+    <img src = "img/IMG_1895_Trim_tracked.gif" alt="Tracked Roundnet Match" width="845"/>
 </a>
 
 |Description|
@@ -69,7 +69,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-real%20estate-white)
 
 <a href="https://arrived-homes-capstone.github.io/landingpage/">
-    <img src = "img/arrived_acquisition_assistant.gif" alt="Arrived Acquisition Assistant" width="700"/>
+    <img src = "img/arrived_acquisition_assistant.gif" alt="Arrived Acquisition Assistant" width="845"/>
 </a>
 
 |Description|
@@ -86,7 +86,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-material%20science-white)
 
 <a href="https://github.com/austinulfers/austinulfers/blob/main/docs/BARC%20Writeup.md">
-    <img src = "docs/img/barc/Layers Visualized.png" alt="CT Layers visualized" width="700"/>
+    <img src = "docs/img/barc/Layers Visualized.png" alt="CT Layers visualized" width="845"/>
 </a>
 
 |Description|
@@ -103,7 +103,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-web--scraping-blue)
 
 <a href ="https://medium.com/swlh/guide-to-migrating-automating-chrome-web-scrapers-within-azure-909a4203476a?source=friends_link&sk=ca6117f431e3eef91ad0a65487343426">
-    <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="700"/>
+    <img src = "img/AzureWebScraperLogic.png" alt="Azure Web Scraper Logic" width="845"/>
 </a>
 
 |Description|
@@ -121,7 +121,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-real%20estate-white)
 
 <a href="https://github.com/austinulfers/austinulfers/blob/main/docs/REOMNIFY%20Final%20Presentation.pdf">
-    <img src = "img/ReomnifyGraphic.PNG" alt="Reomnify Website Graphic" width="700"/>
+    <img src = "img/ReomnifyGraphic.PNG" alt="Reomnify Website Graphic" width="845"/>
 </a>
 
 |Description|
@@ -136,7 +136,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-sports-white)
 
 <a href="https://austinulfers.github.io/roundnet-ai-showcase/">
-    <img src = "img/spike_1-plotly.gif" alt="Tracking a Roundnet Ball From a Drone" width="700"/>
+    <img src = "img/spike_1-plotly.gif" alt="Tracking a Roundnet Ball From a Drone" width="845"/>
 </a>
 
 |Description|
@@ -152,7 +152,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-real%20estate-white)
 
 <a href="https://github.com/austinulfers/austinulfers/blob/main/docs/Final%20Market%20Report%20Summer%202019.pdf">
-    <img src = "img/ACH Future Market Supply.PNG" alt="Seattle Future Market Supply" width="700"/>
+    <img src = "img/ACH Future Market Supply.PNG" alt="Seattle Future Market Supply" width="845"/>
 </a>
 
 |Description|
@@ -167,7 +167,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-education-white)
 
 <a href="https://public.tableau.com/views/UWTableauCatalog/UWClassDashboard?:language=en-US&:display_count=n&:origin=viz_share_link">
-    <img src = "img/UW Course Eval Project.png" alt="Before & After of Scraping" width="700"/>
+    <img src = "img/UW Course Eval Project.png" alt="Before & After of Scraping" width="845"/>
 </a>
 
 |Description|
