@@ -22,7 +22,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-Subject%20Area-white)
 
 
-## Using a Faster R-CNN to Track Objects for the Sport of Roundnet.
+## Tracking Player Stats using AI for Roundnet.
 
 ![](https://img.shields.io/badge/-python-green)
 ![](https://img.shields.io/badge/-yolov7-red)
