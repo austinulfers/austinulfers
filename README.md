@@ -1,6 +1,6 @@
 # About Me
 
-My name is Austin Ulfers and I am a graduate from the University of Washington. I graduated with a degree in Informatics with a specialized in data science. I am currently working for Moss Adams as a Business Intelligence Anaylst.
+My name is Austin Ulfers and I am a graduate from the University of Washington. I graduated with a degree in Informatics with a specialized in data science. I am currently working for Moss Adams as a Software Engineer.
 
 <div align=center>
 
