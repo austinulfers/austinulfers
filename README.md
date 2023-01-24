@@ -21,6 +21,24 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-Skills-blue)
 ![](https://img.shields.io/badge/-Subject%20Area-white)
 
+
+## Using a Faster R-CNN to Track Objects for the Sport of Roundnet.
+
+![](https://img.shields.io/badge/-python-green)
+![](https://img.shields.io/badge/-yolov7-red)
+![](https://img.shields.io/badge/-oc%20sort-red)
+![](https://img.shields.io/badge/-computer%20vision-blue)
+![](https://img.shields.io/badge/-machine%20learning-blue)
+![](https://img.shields.io/badge/-sports-white)
+
+<a href="https://roundnet.ai">
+    <img src = "img/V3 Analyzed.gif" alt="Tracked Roundnet Match" width="845"/>
+</a>
+
+|Description|
+|:--|
+|I will outline my near production ready infrastrucutre for tracking stats of players & teams in the sport of roundnet. This include combining the use of several computer vision models to track players, the ball, and the net. I will also include some of the challenges I faced and how I overcame them. Afterwards, I will discuss the current state of the application and what I plan to do next. [Learn More](https://roundnet.ai) - **November 2022**|
+
 ## Carnagie Mellon Computer Vision Capstone
 
 ![](https://img.shields.io/badge/-python-green)
