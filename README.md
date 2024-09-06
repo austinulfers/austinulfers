@@ -1,10 +1,8 @@
 # About Me
 
-My name is Austin Ulfers and I am a graduate from the University of Washington. I graduated with a degree in Informatics with a specialized in data science. I am currently working for Moss Adams as a Software Engineer.
+My name is Austin Ulfers and I am a 2021 graduate from the University of Washington. I graduated with a degree in Informatics with a specialized in data science. I am currently working for Moss Adams as a Senior Software Engineer building equity management systems for the magnificent seven. I also founded a profitable company called [Roundnet AI](https://roundnet.ai) that uses computer vision to track player stats in the sport of roundnet.
 
 <div align=center>
-
-[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinulfers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austinulfers/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://stackoverflow.com/users/9837010/austin-ulfers)
