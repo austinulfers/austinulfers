@@ -1,6 +1,6 @@
 # About Me
 
-My name is Austin Ulfers and I am a 2021 graduate from the University of Washington. I graduated with a degree in Informatics with a specialized in data science. I am currently working for Moss Adams as a Senior Software Engineer building equity management systems for the magnificent seven. I also founded a profitable company called [Roundnet AI](https://roundnet.ai) that uses computer vision to track player stats in the sport of roundnet.
+My name is Austin Ulfers and I am a 2021 graduate from the University of Washington. I graduated with a degree in Informatics with a specialization in data science. I am currently working for Moss Adams as a Senior Software Engineer building equity management systems for the magnificent seven. I also founded a profitable company called [Roundnet AI](https://roundnet.ai) that uses computer vision to track player stats in the sport of roundnet.
 
 <div align=center>
 
