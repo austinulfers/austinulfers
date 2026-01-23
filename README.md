@@ -27,7 +27,7 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-stripe-red)
 ![](https://img.shields.io/badge/-n8n-red)
 ![](https://img.shields.io/badge/-web%20development-blue)
-![](https://img.shields.io/badge/-person%20finance-white)
+![](https://img.shields.io/badge/-personal%20finance-white)
 
 <a href="https://www.shoebox.io">
     <img src = "https://framerusercontent.com/images/NzkmXPHsZQhh5IOHnhPtVMpOs.png" alt="Shoebox Application" width="845"/>
