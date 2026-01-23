@@ -19,6 +19,23 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-Skills-blue)
 ![](https://img.shields.io/badge/-Subject%20Area-white)
 
+## Shoebox: HSA Receipt Tracking for Retirement.
+
+![](https://img.shields.io/badge/-javascript-green)
+![](https://img.shields.io/badge/-supabase-red)
+![](https://img.shields.io/badge/-vercel-red)
+![](https://img.shields.io/badge/-stripe-red)
+![](https://img.shields.io/badge/-n8n-red)
+![](https://img.shields.io/badge/-web%20development-blue)
+![](https://img.shields.io/badge/-person%20finance-white)
+
+<a href="https://www.shoebox.io">
+    <img src = "https://framerusercontent.com/images/NzkmXPHsZQhh5IOHnhPtVMpOs.png" alt="Shoebox Application" width="845"/>
+</a>
+
+|Description|
+|:--|
+|Shoebox is a web application designed for HSA account holders to help store and track their receipts for retirment. HSAs have special tax advantages and strict IRS guidelines that Shoebox assists account holders with. This business was built using Supabase as the primary backend, vercel for hosting, framer for the website, and n8n for several feature specific implementations. [Learn More](https://shoebox.io) - **April 2025**|
 
 ## Tracking Player Stats using AI for Roundnet.
 
