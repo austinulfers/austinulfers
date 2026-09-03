@@ -19,6 +19,26 @@ Tags are included for all projects:
 ![](https://img.shields.io/badge/-Skills-blue)
 ![](https://img.shields.io/badge/-Subject%20Area-white)
 
+## Understudy: Ask a Coworker's Claude a Question from Slack.
+
+![](https://img.shields.io/badge/-typescript-green)
+![](https://img.shields.io/badge/-javascript-green)
+![](https://img.shields.io/badge/-claude%20agent%20sdk-red)
+![](https://img.shields.io/badge/-slack-red)
+![](https://img.shields.io/badge/-electron-red)
+![](https://img.shields.io/badge/-node.js-red)
+![](https://img.shields.io/badge/-ai%20agents-blue)
+![](https://img.shields.io/badge/-web%20development-blue)
+![](https://img.shields.io/badge/-developer%20tools-white)
+
+<a href="https://understudy.offhourslab.com/">
+    <img src = "img/understudy_og.png" alt="Understudy" width="845"/>
+</a>
+
+|Description|
+|:--|
+|Understudy lets a coworker's Claude answer a question from Slack when the lead is busy. Each participating coworker runs a small daemon on their dev machine; questions from Slack spin up a read-only Claude Code session (Claude Agent SDK) scoped to directories they've chosen to expose, and the answer streams back into the Slack thread. Access is invitation-only and revocable in one click, and every conversation is audited. The project ships a broker (Slack app + WebSocket hub), a menu-bar Mac app for one-click enrollment, and a CLI daemon alternative. [Learn More](https://understudy.offhourslab.com/) - **September 2026**|
+
 ## Shoebox: HSA Receipt Tracking for Retirement.
 
 ![](https://img.shields.io/badge/-javascript-green)
